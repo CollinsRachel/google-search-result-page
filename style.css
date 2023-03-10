@@ -50,7 +50,7 @@
     padding-top: 5px;
 }
 
-.grid-icon {
+    .grid-icon {
     height: 50px;
     width: 50px;
     padding-right: 10px;
@@ -71,9 +71,10 @@ img{ width: 100%; }
     padding-right: 10px;
 }
 
-.right-nav {
+.rightnav {
     display: flex;
     align-items: center;
-    justify-content: flex-end;
-    margin-left: 260px;
+    margin-left: 200px;
 }
+
+.rightnav .tools { padding-left: 15px; }
